@@ -1,4 +1,4 @@
 Objectives:
 
-1)  Design and implement a 2x1, 4x1, 8x1 and 10x1 multiplexers in data flow, behavioural and structural domains.
+1)  Design and implement a 2x1, 4x1, 8x1 and 10x1 multiplexers in data flow domain.
 2)  Verify the design by simulating test benches for the same.
