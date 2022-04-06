@@ -1,0 +1,11 @@
+Objectives:
+
+1)  Design an FSM to implement multiplication of two numbers by repeated addition using datapath and control path.
+2)  Verify the model by simulating a test bench for the same.
+
+
+INPUT DATA GIVEN TO TEST THE MODEL:
+NUMBER 1: 17
+NUMBER 2: 5
+
+EXPECTED OUTPUT: 85 (stored in register P)
