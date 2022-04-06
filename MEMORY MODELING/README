@@ -1,1 +1,7 @@
-O
+Objectives:
+
+1)  Design and implement a memory model for a single-port RAM with synchronous read/write.
+2)  Design and implement a memory model for a single-port RAM with asynchronous read/write.
+3)  Design and implement a memory model for a ROM/EPROM.
+4)  Design and implement a memory model for RAM.
+5)  Verify the designs by simulating a test bench for the same.
