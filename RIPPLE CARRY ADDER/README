@@ -1,0 +1,4 @@
+Objectives:
+
+1)  Design and implement a 4-bit ripple carry adder in data flow, behavioural and structural domains.
+2)  Verify the design by simulating a test bench for the same. 
