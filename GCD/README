@@ -1,1 +1,11 @@
-O
+Objectives:
+
+1)  Design an FSM to implement GCD(Greatest Common Divisor) of two numbers by repeated subtraction using datapath and control path.
+2)  Verify the model by simulating a test bench for the same.
+
+
+INPUT DATA GIVEN TO TEST THE MODEL:
+NUMBER 1: 143
+NUMBER 2: 78
+
+EXPECTED OUTPUT: 13 (stored in register A)
