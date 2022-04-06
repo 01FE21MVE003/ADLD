@@ -1,0 +1,4 @@
+Objectives:
+
+1)  Design and implement a sequence detector to detect the sequence '1011' using Moore FSM.
+2)  Verify the design by simulating a test bench for the same.
