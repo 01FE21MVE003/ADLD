@@ -1,1 +1,4 @@
 Objectives:
+
+1)  Design and implement a 4-bit carry lookahead adder in data flow and behavioural domains.
+2)  Verify the design by simulating a test bench for the same.
