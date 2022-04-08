@@ -9,8 +9,8 @@ Design aspects:
 
 Methodology:
   Designing a dital lock with 4-bit binary password having a reset button and two input numbers 0 and 1. 
-  Password set as "1101".
+  Password being set as "1101".
   
-  > Creating a State transition diagram using Moore (overlapping) model
-  > Writing verilog code defining the state parameters and the state transition blocks.
+  > Creating a State Transition diagram using Moore (overlapping) model.
+  > Writing the verilog code by defining the state parameters and the various state transition blocks.
   > Final implementation of the design by writing and executing a test bench. Series of input is given in the test bench and the unlock status is checked to be set whenever the password 1101 is detected. 
