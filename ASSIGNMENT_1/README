@@ -4,3 +4,7 @@ Objective:
 
 Password set as "1101" 
 Unlock = 1 states that the lock is open after receiving the input password 1101.
+
+
+Methodology:
+  Designing a dital lock with 4-bit binary password having a reset button and two input numbers 0 and 1. 
