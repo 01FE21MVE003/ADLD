@@ -8,3 +8,8 @@ Unlock = 1 states that the lock is open after receiving the input password 1101.
 
 Methodology:
   Designing a dital lock with 4-bit binary password having a reset button and two input numbers 0 and 1. 
+  Password set as "1101".
+  
+  > Creating a State transition diagram using Moore (overlapping) model
+  > Writing verilog code defining the state parameters and the state transition blocks.
+  > Final implementation of the design by writing and executing a test bench. Series of input is given in the test bench and the unlock status is checked whenever the sequence 1101 is detected. 
