@@ -12,4 +12,4 @@ Methodology:
   
   > Creating a State transition diagram using Moore (overlapping) model
   > Writing verilog code defining the state parameters and the state transition blocks.
-  > Final implementation of the design by writing and executing a test bench. Series of input is given in the test bench and the unlock status is checked whenever the sequence 1101 is detected. 
+  > Final implementation of the design by writing and executing a test bench. Series of input is given in the test bench and the unlock status is checked to be set whenever the password 1101 is detected. 
