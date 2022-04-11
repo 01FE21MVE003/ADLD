@@ -1,1 +1,12 @@
-Objectives
+Objectives:
+
+1)  Design and implement a pipeline model.
+2)  Verify the design by simulating a test bench for the same.
+
+
+Inputs : A,B,C,D
+Output : F
+Stages are defined as -
+   S1 : x1 = A + B ; x2 = C - D;
+   S2 : x3 = x1 + x2;
+   S3 : F = x3 * D;
