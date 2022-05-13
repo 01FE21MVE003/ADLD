@@ -1,3 +1,4 @@
 Objectives:
 
 1)  Design and implement a MIPS 32 bit processor.
+2)  Write a test bench for the same.
