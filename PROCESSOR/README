@@ -1,6 +1,4 @@
 Objectives:
 
 1)  Design and implement a MIPS32 processor.
-2)  Verify the operation of the processor model by writing test benches for the same.
-
-
+2)  Verify the operation of the processor model by writing test benche for the same.
